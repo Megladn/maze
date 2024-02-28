@@ -33,18 +33,18 @@ html, body {
 }
 input, select {
     cursor: pointer;
-    background-color: rgba(0, 0, 0, 0.30);
+    background-color: #fff;
     height: 45px;
     width: 150px;
     padding: 10px;
     border: none;
     border-radius: 5px;
-    color: white;
+    color: black;
     display: inline-block;
-    font-size: 15px;
+    font-size: 20px;
     text-align: center;
     text-decoration: none;
-    appearance: none;
+    appearance: auto;
 }
 input:hover, select:hover {
 	background-color: rgba(0, 0, 0, 0.70);
